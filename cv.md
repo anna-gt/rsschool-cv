@@ -13,7 +13,8 @@ I graduated from medical iniversity in 2020 and used to work as a pharmasist, bu
 + Git, GitHub  
 +  VS Code  
 +  Adobe Photoshop  
-**Work experience:**  defended [graduation project](http://fe.it-academy.by/Sites/0043256/index.html) after finishing course from IT Academy 
+## Work experience:   
+  Defended [graduation project](http://fe.it-academy.by/Sites/0043256/index.html) after finishing course from IT Academy 
 ## Code example:  
 **Quadrants KATA from CODEWARS:** Given a point in a Euclidean plane (x and y), return the quadrant the point exists in: 1, 2, 3 or 4 (integer). x and y are non-zero integers, therefore the given point never lies on the axes.  
 **Solution:**
