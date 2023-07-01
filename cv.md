@@ -3,7 +3,7 @@
 **Phone:** +37544 4818347  
 **Email:** hannah.ivanovich@gmail.com  
 **Telegram**: @ania_gt  
-**Discord:** anna_gt
+**Discord:** anna_gt  
 [LinkedIn](https://www.linkedin.com/in/anna-hetsman-b3a441269/)  
 ## About myself:  
 I graduated from medical iniversity in 2020 and used to work as a pharmasist, but than realised that it is not what I want to do for living. I started learning html, css and javascript and this topic aroused my interest. I believe I can do my best as a front-end developer.  
@@ -31,5 +31,5 @@ function quadrant(x, y) {
 + "JavaScript/Front-end. Stage 0" from RS School (in progress)  
 ## Languages:  
 + English: B2 (Upper intermediate)  
-+ Russian - native  
-+ Belarusian - native  
++ Russian: native  
++ Belarusian: native  
