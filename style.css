@@ -109,7 +109,7 @@ h1.section-title  {
   }
 }
 .sidepanel {
-  height: 600px;
+  height: 100%;
   width: 0; 
   position: fixed;
   z-index: 1; 
